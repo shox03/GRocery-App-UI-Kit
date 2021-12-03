@@ -1,15 +1,13 @@
-# grocery
+# GRocery App UI Kit
 
 A new Flutter project.
 
-## Getting Started
+## About project
 
-This project is a starting point for a Flutter application.
+Carefully designed screens for your next project. 
+Support for SVG and your favourite design tool. Completely free for personal use. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Original Ui link](https://www.figma.com/file/lxCsAAHMxOkhjrKt2ciqOB/Grocery-Plus---Grocery-App-UI-Kit-(Community)?node-id=903%3A2960)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
