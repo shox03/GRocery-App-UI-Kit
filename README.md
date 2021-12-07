@@ -14,10 +14,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # GRocery-App-UI-Kit
 
+![photo_2021-12-07_14-11-22](https://user-images.githubusercontent.com/88949855/145016369-f090d612-5c22-46d7-b8f6-85d830ed3101.jpg)
 ![photo_2021-12-07_14-11-22](https://user-images.githubusercontent.com/88949855/145015884-d3ca951b-5d16-4ebb-8d5f-a6cbb9215dec.jpg
 ![photo_2021-12-07_14-11-26](https://user-images.githubusercontent.com/88949855/145015911-368fdb82-15c8-401a-b718-475bcbc4ba6b.jpg)
-![photo_2021-12-07_14-11-28](https://user-images.githubusercontent.com/88949855/145015926-cab8af80-a4b8-4219-bab2-410712ed0753.jpg)
-)
 ![photo_2021-12-07_14-11-32](https://user-images.githubusercontent.com/88949855/145015965-e0341ef7-b6dc-4775-bd47-29d5a42ce874.jpg)
 ![photo_2021-12-07_14-11-35](https://user-images.githubusercontent.com/88949855/145015968-ebca2de2-7e8b-4064-9e51-9793faed7ce9.jpg)
 ![photo_2021-12-07_14-11-39](https://user-images.githubusercontent.com/88949855/145015973-bc04f179-692e-44b5-8f6b-be58de79dca6.jpg)
